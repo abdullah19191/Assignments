@@ -1,4 +1,3 @@
-// Import required modules
 const { pool } = require("../dbConfig");
 
 const createBlogPost = async (req, res) => {
